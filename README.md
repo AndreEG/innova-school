@@ -99,29 +99,57 @@ Son más capaces de justificar sus decisiones, como la distinción entre lo corr
 # SÍNTESIS Y DEFINICIÓN
 
 ## Afinity mapping
-## User persona primary
-## User persona secondary
-## Customer persona
-## Served persona
-## Negative persona
-## Customer journey maps
-## storyteling
-## Problem statements
+![titulo](assets/images/afinity.png)
+
+## User persona 
+![titulo](assets/images/persona.png)
+
+## Problem 
+
+* Ariana necesita obtener información de cada carrera para hacer una buena elección
+* Ariana necesita escoger una carrera que le guste y sea rentable para no temer de su futuro
+* Ariana necesita una forma de saber que Universidades cuentan con la carrera que le interesa para elegir la opción más correcta.
+* Ariana necesita saber cuáles son los beneficios que le ofrece cada carrera para comparar las que más le interesan.
+* Ariana necesita conocer los precios de las universidades e institutos para tener en cuenta su presupuesto.
+
 ## HMW
+
+* HMW para que la información sea clara y precisa.
+* HMW para que los gustos ayuden a la elección y muestra de información
+* HMW reflejar la rentabilidad de las carreras
+* HMW listar las universidades por carreras
+* HMW mostrar los beneficios que cada carrera ofrece
+* HMW mostrar los precios de las universidades
+
 ## What if
+
+* What if no necesitaran la información?
+* What if alguien ayuda a los jóvenes a saber que quieren estudiar?
+* What if si todas las carreras son rentables?
+* What if solo habría una universidad?
+* What if los beneficios fueran como calificaciones?
+* What if todas las carreras costaran igual?
 
 # IDEACIÓN
 
-## Brainstorming
 ## Benchmarck
+
+
+
 ## Feature list
+
+* Test vocacional divertido y basado en imágenes
+* Un espacio de me gusta para encontrar de manera rápida las carreras que hagan match
+* Mostrar las Universidades e Institutos disponibles, sectores de trabajo dentro de las carreras
+* Una opción para mostrar el precio de las instituciones y el proceso de admisión dentro de las carreras
+* Listado de carreras
+* Listado de Universidades e Institutos
+ 
 ## Priorizacion
+
+![titulo](assets/images/priorizacion.png)
+
 ## Mvp
-## Story  board
-## User flow
-## Arquitectura de la informacion
-## Card sorting
-## Site map
 
 # PROTOTIPADO
 
