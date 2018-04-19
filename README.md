@@ -136,7 +136,7 @@ Son más capaces de justificar sus decisiones, como la distinción entre lo corr
 
 ## Benchmarck
 
-![benchmark](assets/images/priorizacion.png)
+![benchmark](assets/images/benchmark.png)
 
 ## Feature list
 
@@ -152,6 +152,7 @@ Son más capaces de justificar sus decisiones, como la distinción entre lo corr
 ![titulo](assets/images/priorizacion.png)
 
 ## Mvp
+El producto minimo viable será una aplicación movil debido a los estudios hechos, los cuales demuestran que el usuario ingresa a internet más frecuentemente desde su celular.
 
 # PROTOTIPADO
 
