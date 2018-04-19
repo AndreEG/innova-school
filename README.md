@@ -155,10 +155,19 @@ Son más capaces de justificar sus decisiones, como la distinción entre lo corr
 
 # PROTOTIPADO
 
-## Content Prototype
 ## Paper prototyping
+
 ## Prototipo de alta fidelidad
+
+![titulo](assets/images/proto1.png)
+![titulo](assets/images/proto2.png)
+
 ## Prototipo interactivo
 
-# TESTING
+| Prototipo | Link |
+|:---------------:|:----:|
+| 1er Prototipo | <https://marvelapp.com/322bj1i/screen/40019601>|
+| 2do Prototipo | <https://marvelapp.com/42h4bi6/screen/40029832>|
+| 2do Prototipo mejorado | <https://marvelapp.com/85f1b1e/screen/40037256> |
+
 
