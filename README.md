@@ -19,6 +19,8 @@ Cada uno de los establecimientos está dividido en dos secciones. Los niños pas
 
 Blended Learning es un programa educativo (formal o no formal) que combina medios digitales en línea con métodos tradicionales en el aula. Requiere la presencia física del maestro y del alumno, con algún elemento de control del alumno sobre el tiempo, el lugar, la ruta o el ritmo. Mientras los estudiantes siguen asistiendo a escuelas "tradicionales" con un maestro presente, las prácticas presenciales en el aula se combinan con actividades mediadas por computadora con respecto al contenido y la entrega. El aprendizaje combinado también se utiliza en entornos de desarrollo profesional y capacitación. 
 
+![titulo](assets/images/metodologia.png)  
+
 #### Ventajas
 
 Blended Learning es un programa educativo (formal o no formal) que combina medios digitales en línea con métodos tradicionales en el aula. Requiere la presencia física del maestro y del alumno, con algún elemento de control del alumno sobre el tiempo, el lugar, la ruta o el ritmo. Mientras los estudiantes siguen asistiendo a escuelas "tradicionales" con un maestro presente, las prácticas presenciales en el aula se combinan con actividades mediadas por computadora con respecto al contenido y la entrega. El aprendizaje combinado también se utiliza en entornos de desarrollo profesional y capacitación. 
