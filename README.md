@@ -101,12 +101,12 @@ Son más capaces de justificar sus decisiones, como la distinción entre lo corr
 # SÍNTESIS Y DEFINICIÓN
 
 ## Afinity mapping
-![titulo](assets/images/afinity.png)
+![titulo](assets/images/afinity.jpeg)
 
 ## User persona 
 ![titulo](assets/images/persona.png)
 
-## Problem 
+## Problem Statement
 
 * Ariana necesita obtener información de cada carrera para hacer una buena elección
 * Ariana necesita escoger una carrera que le guste y sea rentable para no temer de su futuro
@@ -136,7 +136,7 @@ Son más capaces de justificar sus decisiones, como la distinción entre lo corr
 
 ## Benchmarck
 
-
+![benchmark](assets/images/priorizacion.png)
 
 ## Feature list
 
@@ -155,11 +155,11 @@ Son más capaces de justificar sus decisiones, como la distinción entre lo corr
 
 # PROTOTIPADO
 
-## Paper prototyping
-
 ## Prototipo de alta fidelidad
 
+### Primer Prototipo
 ![titulo](assets/images/proto1.png)
+### Segundo Prototipo
 ![titulo](assets/images/proto2.png)
 
 ## Prototipo interactivo
