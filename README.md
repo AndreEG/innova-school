@@ -1,6 +1,14 @@
+# TEF Innova
+Innova School busca ayudar a sus alumnos de 4to de media a decidir qué carrera que quieren estudiar. El reto consta en diseñar una herramienta que los guie en este camino. 
+
+![image](https://user-images.githubusercontent.com/32310867/48108390-fb673800-e210-11e8-95a8-d7d31bd17bee.png)
+
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
+
 ![titulo](assets/images/titulo.png)   
 
-# INFORMACIÓN DE NEGOCIO
+## INFORMACIÓN DE NEGOCIO
 
 ## Acerca de Innova School
 
