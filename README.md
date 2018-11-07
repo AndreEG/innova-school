@@ -43,7 +43,7 @@ Blended Learning es un programa educativo (formal o no formal) que combina medio
 
 ![titulo](assets/images/proceso.png)   
 
-# DESCUBRIMIENTO E INVESTIGACIÓN
+## DESCUBRIMIENTO E INVESTIGACIÓN
 
 ## Research
 
@@ -106,7 +106,7 @@ Son más capaces de justificar sus decisiones, como la distinción entre lo corr
 ## Entrevistas a Usuarios
 ![titulo](assets/images/entrevista.png)   
 
-# SÍNTESIS Y DEFINICIÓN
+## SÍNTESIS Y DEFINICIÓN
 
 ## Afinity mapping
 ![titulo](assets/images/afinity.jpeg)
@@ -140,7 +140,7 @@ Son más capaces de justificar sus decisiones, como la distinción entre lo corr
 * What if los beneficios fueran como calificaciones?
 * What if todas las carreras costaran igual?
 
-# IDEACIÓN
+## IDEACIÓN
 
 ## Benchmarck
 
@@ -162,7 +162,7 @@ Son más capaces de justificar sus decisiones, como la distinción entre lo corr
 ## Mvp
 El producto minimo viable será una aplicación movil debido a los estudios hechos, los cuales demuestran que el usuario ingresa a internet más frecuentemente desde su celular.
 
-# PROTOTIPADO
+## PROTOTIPADO
 
 ## Prototipo de alta fidelidad
 
